@@ -14,13 +14,12 @@ This portfolio documents sanitized real-world security incidents, simulated secu
 
 ### Work-Based Security Investigation
 
-**Social Engineering and Unauthorized Remote Access Incident**
+### [Social Engineering and Unauthorized Remote Access Incident](Work-Based-Case-Studies/Social-Engineering-Remote-Access-Incident.md)
 
 Sanitized reconstruction of a real security incident involving IT impersonation, suspicious remote-access activity, abnormal workstation behavior, MFA investigation, account containment, device isolation, incident documentation, and escalation to Information Security.
 
 `Work-Based Case Study — Sanitized Incident Reconstruction`
 
-Status: Coming soon
 
 ---
 
