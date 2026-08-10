@@ -63,15 +63,13 @@ Status: Project in progress
 ## Education
 
 ### Western Governors University
-
-Master of Science in Cybersecurity and Information Assurance
+Master of Science in Cybersecurity and Information Assurance  
 Currently in progress
 
 ### DeVry University
-
-Bachelor of Science in Information Technology and Networking
-Cybersecurity Focus
-Summa Cum Laude
+Bachelor of Science in Information Technology and Networking  
+Cybersecurity Focus  
+Summa Cum Laude  
 GPA: 3.95
 
 ---
