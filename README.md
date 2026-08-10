@@ -181,6 +181,9 @@ Original portfolio-safe summaries of cybersecurity projects completed through my
 
 Reusable templates demonstrating how I structure security investigations and incident documentation.
 
+- [Work-Based Security Case Study Template](Templates/Work-Case-Study-Template.md)
+- [Lab Investigation Template](Templates/Lab-Investigation-Template.md)
+
 ---
 
 ## Professional Approach
