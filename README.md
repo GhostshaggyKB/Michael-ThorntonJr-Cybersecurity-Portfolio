@@ -127,11 +127,11 @@ GPA: 3.95
 | Skill                    | Work-Based Proof                                   | Lab or Academic Proof                       |
 | ------------------------ | -------------------------------------------------- | ------------------------------------------- |
 | Security incident triage | Sanitized security incident investigations         | Security Operations incident investigation  |
-| Phishing analysis        | Work-based phishing response experience            | Future phishing investigation report        |
+| Phishing analysis        | Work-based phishing response experience            | Phishing investigation report               |
 | IAM and MFA              | Account-security and authentication investigations | Azure IAM and RBAC project                  |
 | Log analysis             | Security-related troubleshooting                   | Security Operations investigation           |
 | Account compromise       | Unauthorized-access incident                       | Security Operations project                 |
-| Endpoint security        | Work-based endpoint incident response              | Future security lab                         |
+| Endpoint security        | Work-based endpoint incident response              | Security lab                                |
 | Network analysis         | Enterprise network troubleshooting                 | Wireshark/Nmap investigation                |
 | Vulnerability management | Remediation and escalation experience              | Future vulnerability-assessment lab         |
 | Cloud security           | Current cybersecurity studies                      | Azure cloud-security implementation project |
