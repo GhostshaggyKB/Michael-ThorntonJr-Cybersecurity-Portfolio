@@ -24,7 +24,7 @@ Sanitized reconstruction of a real security incident involving IT impersonation,
 
 ### [Secure Network Merger and Segmentation Design](Academic-Projects/Secure-Network-Merger-and-Segmentation-Design.md)
 
-Completed WGU Secure Network Design project focused on secure architecture, segmentation, identity and access management, MFA, Zero Trust concepts, risk analysis, and security-conscious network integration.
+Completed WGU Security Operations/CySA+ project demonstrating security incident triage, SIEM investigation, malicious activity analysis, endpoint remediation, network containment, risk assessment, and professional incident documentation.
 
 `Academic Project — Sanitized Network Security Design`
 
@@ -134,13 +134,13 @@ GPA: 3.95
 | Skill                    | Work-Based Proof                                   | Lab or Academic Proof                       |
 | ------------------------ | -------------------------------------------------- | ------------------------------------------- |
 | Security incident triage | Sanitized security incident investigations         | Security Operations incident investigation  |
-| Phishing analysis        | Work-based phishing response experience            | Phishing investigation report               |
+| Phishing analysis        | Work-based phishing response experience            | Security Operations incident investigation |
 | IAM and MFA              | Account-security and authentication investigations | Azure IAM and RBAC project                  |
 | Log analysis             | Security-related troubleshooting                   | Security Operations investigation           |
 | Account compromise       | Unauthorized-access incident                       | Security Operations project                 |
-| Endpoint security        | Work-based endpoint incident response              | Security lab                                |
-| Network analysis         | Enterprise network troubleshooting                 | Wireshark/Nmap investigation                |
-| Vulnerability management | Remediation and escalation experience              | Future vulnerability-assessment lab         |
+| Endpoint security        | Work-based endpoint incident response              | Security Operations incident investigation |
+| Network analysis         | Enterprise network troubleshooting                 | Secure Network Design project |
+| Vulnerability management | Remediation and escalation experience              | Secure Network Design project |
 | Cloud security           | Current cybersecurity studies                      | Azure cloud-security implementation project |
 | Documentation            | ServiceNow incident and escalation documentation   | Professional investigation reports          |
 | Incident escalation      | Tier 2 security escalation experience              | Security Operations incident investigation  |
@@ -163,7 +163,7 @@ Portfolio reports focus on investigation methodology, technical reasoning, findi
 
 ## Portfolio Navigation
 
-As projects are completed, this portfolio will include:
+Explore the completed and developing portfolio sections below:
 
 ### Work-Based Case Studies
 
