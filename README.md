@@ -22,21 +22,19 @@ Sanitized reconstruction of a real security incident involving IT impersonation,
 
 ---
 
-### [Secure Network Merger and Segmentation Design](Academic-Projects/Secure-Network-Merger-and-Segmentation-Design.md)
-
-Completed WGU Security Operations/CySA+ project demonstrating security incident triage, SIEM investigation, malicious activity analysis, endpoint remediation, network containment, risk assessment, and professional incident documentation.
-
-`Academic Project — Sanitized Network Security Design`
-
----
-
 ### [Security Alert Investigation and Incident Response Analysis](SOC-Lab-Investigations/Security-Alert-Investigation-and-Incident-Response.md)
 
 Security operations project based on completed WGU Security Operations/CySA+ coursework. The final portfolio report will demonstrate alert triage, evidence review, event correlation, incident severity assessment, indicators of compromise, escalation decisions, containment recommendations, and professional incident documentation.
 
 `Academic/Simulated Security Operations Project`
 
+---
 
+### [Secure Network Merger and Segmentation Design](Academic-Projects/Secure-Network-Merger-and-Segmentation-Design.md)
+
+Completed WGU Security Operations/CySA+ project demonstrating security incident triage, SIEM investigation, malicious activity analysis, endpoint remediation, network containment, risk assessment, and professional incident documentation.
+
+`Academic Project — Sanitized Network Security Design`
 
 ---
 
