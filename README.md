@@ -23,13 +23,13 @@ Sanitized reconstruction of a real security incident involving IT impersonation,
 
 ---
 
-### Security Alert Investigation and Incident Response Analysis
+### [Security Alert Investigation and Incident Response Analysis](SOC-Lab-Investigations/Security-Alert-Investigation-and-Incident-Response.md)
 
 Security operations project based on completed WGU Security Operations/CySA+ coursework. The final portfolio report will demonstrate alert triage, evidence review, event correlation, incident severity assessment, indicators of compromise, escalation decisions, containment recommendations, and professional incident documentation.
 
 `Academic/Simulated Security Operations Project`
 
-Status: Portfolio report in development
+
 
 ---
 
