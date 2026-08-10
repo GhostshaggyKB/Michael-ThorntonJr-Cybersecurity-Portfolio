@@ -20,6 +20,13 @@ Sanitized reconstruction of a real security incident involving IT impersonation,
 
 `Work-Based Case Study — Sanitized Incident Reconstruction`
 
+---
+
+### [Secure Network Merger and Segmentation Design](Academic-Projects/Secure-Network-Merger-and-Segmentation-Design.md)
+
+Completed WGU Secure Network Design project focused on secure architecture, segmentation, identity and access management, MFA, Zero Trust concepts, risk analysis, and security-conscious network integration.
+
+`Academic Project — Sanitized Network Security Design`
 
 ---
 
