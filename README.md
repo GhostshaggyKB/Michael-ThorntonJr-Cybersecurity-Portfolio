@@ -20,11 +20,19 @@ Sanitized reconstruction of a real security incident involving IT impersonation,
 
 ---
 
+### [Enterprise Phishing Simulation Triage and Account Remediation](Work-Based-Case-Studies/Enterprise-Phishing-Simulation-Triage-and-Account-Remediation.md)
+
+Participated in an authorized internal phishing simulation involving phishing-message analysis, pattern recognition across multiple reports, credential-exposure triage, security escalation, Active Directory account containment, MFA restriction, credential resets, identity verification, and secure account restoration.
+
+`Work-Based Case Study — Sanitized Security Simulation Project`
+
+---
+
 ### [Security Alert Investigation and Incident Response Analysis](SOC-Lab-Investigations/Security-Alert-Investigation-and-Incident-Response.md)
 
 Completed WGU Security Operations project involving SIEM-based investigation, malicious activity analysis, endpoint remediation, network containment, incident prioritization, root-cause analysis, and professional incident documentation in an authorized simulated environment.
 
-`Academic/Simulated Security Operations Project`
+`Academic Project — Simulated Security Operations`
 
 ---
 
