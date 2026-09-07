@@ -12,8 +12,6 @@ This portfolio documents sanitized real-world security incidents, simulated secu
 
 ## Featured Portfolio Projects
 
-### Work-Based Security Investigation
-
 ### [Social Engineering and Unauthorized Remote Access Incident](Work-Based-Case-Studies/Social-Engineering-Remote-Access-Incident.md)
 
 Sanitized reconstruction of a real security incident involving IT impersonation, suspicious remote-access activity, abnormal workstation behavior, MFA investigation, account containment, device isolation, incident documentation, and escalation to Information Security.
@@ -21,8 +19,6 @@ Sanitized reconstruction of a real security incident involving IT impersonation,
 `Work-Based Case Study — Sanitized Incident Reconstruction`
 
 ---
-
-### Academic-Based Investigation
 
 ### [Security Alert Investigation and Incident Response Analysis](SOC-Lab-Investigations/Security-Alert-Investigation-and-Incident-Response.md)
 
@@ -32,8 +28,6 @@ Completed WGU Security Operations project involving SIEM-based investigation, ma
 
 ---
 
-### Academic Project — Sanitized Network Security Design
-
 ### [Secure Network Merger and Segmentation Design](Academic-Projects/Secure-Network-Merger-and-Segmentation-Design.md)
 
 Completed WGU Secure Network Design project in which I evaluated security risks across two distinct network environments and designed a segmented hybrid architecture using secure inter-site connectivity, IAM, MFA, Zero Trust principles, cloud integration, and layered security controls. The design balanced risk reduction, scalability, compliance requirements, operational continuity, and cost.
@@ -41,8 +35,6 @@ Completed WGU Secure Network Design project in which I evaluated security risks 
 `Academic Project — Sanitized Network Security Design`
 
 ---
-
-### Azure Cloud Security Implementation and Compliance Plan
 
 ### [Azure Cloud Security Implementation and Compliance Plan](Academic-Projects/Cloud-Security-Implementation-Project.md)
 
