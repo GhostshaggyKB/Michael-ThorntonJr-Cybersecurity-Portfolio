@@ -44,11 +44,11 @@ Completed WGU Secure Network Design project in which I evaluated security risks 
 
 ### Azure Cloud Security Implementation and Compliance Plan
 
-Microsoft Azure cloud-security project involving identity and access management, RBAC, least privilege, encryption, Azure Key Vault, data protection, backup configuration, compliance requirements, security gaps, and technical security recommendations.
+### [Azure Cloud Security Implementation and Compliance Plan](Academic-Projects/Cloud-Security-Implementation-Project.md)
+
+Completed WGU Cloud Security project involving Microsoft Azure security, RBAC and least privilege, Key Vault, encryption, backup and recovery, cloud shared responsibility, risk analysis, compliance considerations, and security-control recommendations.
 
 `Academic Project — Sanitized Portfolio Summary`
-
-Status: Project in progress
 
 ---
 
