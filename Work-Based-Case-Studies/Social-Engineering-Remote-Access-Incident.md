@@ -28,6 +28,27 @@ Information Security later confirmed malicious remote access, credential exposur
 
 ---
 
+## My Direct Contributions
+
+As the Tier 2 support specialist handling the incident, I personally performed the initial investigation, account-security actions, workstation containment guidance, and escalation to Information Security.
+
+| Responsibility | Actions I Personally Performed |
+|---|---|
+| Initial triage | Investigated an abnormal workstation lockout, reviewed the user's account-access problems, and identified a prior interaction involving someone impersonating IT support |
+| Authentication and MFA investigation | Reviewed available account and MFA administration information, identified three denied MFA attempts, and assessed their significance alongside the suspicious workstation behavior |
+| Account-security actions | Reset the affected directory account, required a password change at next login, and terminated active cloud-account sessions within my authorized access |
+| Recognition of active compromise | Observed unexplained mouse activity and a PowerShell window while the user was not interacting with the workstation |
+| Workstation containment | Directed the user to disconnect network connectivity and power down the workstation to interrupt potentially ongoing unauthorized access |
+| Incident documentation and escalation | Contacted Information Security directly, classified the case as a compromised-account incident, assigned high urgency, and documented the unfolding timeline in the service-management system |
+
+### Responsibility Boundaries
+
+My work involved Tier 2 investigation, authorized account-security actions, immediate containment guidance, documentation, and escalation.
+
+Information Security performed the deeper forensic investigation and confirmed the extent of malicious activity. Other authorized teams handled the workstation reimage and broader remediation. I do not present those activities as work I personally performed.
+
+---
+
 ## General Environment
 
 The incident occurred in a remote enterprise environment using:
