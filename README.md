@@ -52,6 +52,14 @@ Completed authorized PenTest+ hands-on labs involving Nmap reconnaissance, netwo
 
 ---
 
+### [Network Traffic and PCAP Analysis](SOC-Lab-Investigations/Network-Traffic-and-PCAP-Analysis.md)
+
+Completed an authorized PenTest+ network traffic analysis lab involving packet inspection, network communications, protocol identification, and traffic-analysis concepts. Documented the investigative approach, evidence limitations, and relevance to SOC alert triage and network security monitoring.
+
+`Authorized Hands-On Lab — PenTest+ Network Traffic Analysis`
+
+---
+
 ### [Secure Network Merger and Segmentation Design](Academic-Projects/Secure-Network-Merger-and-Segmentation-Design.md)
 
 Completed WGU Secure Network Design project in which I evaluated security risks across two distinct network environments and designed a segmented hybrid architecture using secure inter-site connectivity, IAM, MFA, Zero Trust principles, cloud integration, and layered security controls. The design balanced risk reduction, scalability, compliance requirements, operational continuity, and cost.
