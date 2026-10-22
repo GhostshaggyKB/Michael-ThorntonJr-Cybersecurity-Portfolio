@@ -85,6 +85,31 @@ The combination of these findings supported treating the system as compromised.
 
 ---
 
+## Investigation Evidence and Decision-Making
+
+The investigation required correlating multiple observations rather than treating any single indicator as proof of compromise.
+
+| Evidence Reviewed | Security Interpretation | Investigation or Response Decision |
+|---|---|---|
+| Multiple users experienced performance problems with a shared application | The issue could involve a shared server rather than individual workstations | Investigated the affected server environment |
+| Abnormally high system-resource utilization | A process or workload might be responsible for the reported performance problems | Examined running processes on the Windows server |
+| Unexpected outbound network communication | The server was communicating in a way inconsistent with its expected behavior | Reviewed relevant security events and network metadata in the SIEM |
+| Suspicious process associated with unauthorized malware activity | The combined process and network evidence supported treating the system as compromised | Restored endpoint protection and performed a security scan |
+| Endpoint-protection functionality was not operating as expected | Reduced protection could allow malicious activity to continue | Restored defensive functionality and allowed remediation of the detected threat |
+| Unauthorized outbound communication was identified | Network containment was needed in addition to endpoint remediation | Implemented a firewall block and verified the control was applied |
+
+### Analyst Reasoning
+
+The initial symptoms could have been caused by an ordinary performance issue. I did not treat those symptoms alone as confirmation of malicious activity.
+
+The combination of suspicious outbound communication, abnormal resource consumption, unauthorized malware activity, and ineffective endpoint protection provided stronger evidence of compromise.
+
+My response addressed both the endpoint and network aspects of the incident. I also documented the contributing security weaknesses and recommended preventative improvements.
+
+This summary reflects observations and actions already documented in the completed authorized simulation. It does not reproduce protected lab evidence or claim production SOC responsibilities.
+
+---
+
 ## Containment and Remediation
 
 I performed remediation within the authorized lab environment.
