@@ -36,6 +36,14 @@ Completed WGU Security Operations project involving SIEM-based investigation, ma
 
 ---
 
+### [Splunk Log Analysis and Security Monitoring Fundamentals](SOC-Lab-Investigations/Splunk-Log-Analysis-and-Security-Monitoring-Fundamentals.md)
+
+Completed Splunk Fundamentals training and earned a certificate, developing foundational knowledge of SPL, event searches, log filtering, field analysis, reporting, dashboards, and alerting concepts. Also used Splunk in authorized cybersecurity labs to support hands-on familiarity with security-monitoring workflows.
+
+`Security Training — Splunk Fundamentals and Hands-On Lab Experience`
+
+---
+
 ### [Secure Network Merger and Segmentation Design](Academic-Projects/Secure-Network-Merger-and-Segmentation-Design.md)
 
 Completed WGU Secure Network Design project in which I evaluated security risks across two distinct network environments and designed a segmented hybrid architecture using secure inter-site connectivity, IAM, MFA, Zero Trust principles, cloud integration, and layered security controls. The design balanced risk reduction, scalability, compliance requirements, operational continuity, and cost.
