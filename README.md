@@ -44,6 +44,14 @@ Completed Splunk Fundamentals training and earned a certificate, developing foun
 
 ---
 
+### [Network and Web Application Vulnerability Assessment](SOC-Lab-Investigations/Network-and-Web-Application-Vulnerability-Assessment.md)
+
+Completed authorized PenTest+ hands-on labs involving Nmap reconnaissance, network enumeration, directory traversal, cross-site scripting (XSS), insecure direct object references (IDOR), network traffic analysis, and Burp Suite. Consolidated the individual exercises into a portfolio report emphasizing vulnerability recognition, security analysis, and defensive remediation principles.
+
+`Authorized Hands-On Lab Portfolio — PenTest+ Coursework`
+
+---
+
 ### [Secure Network Merger and Segmentation Design](Academic-Projects/Secure-Network-Merger-and-Segmentation-Design.md)
 
 Completed WGU Secure Network Design project in which I evaluated security risks across two distinct network environments and designed a segmented hybrid architecture using secure inter-site connectivity, IAM, MFA, Zero Trust principles, cloud integration, and layered security controls. The design balanced risk reduction, scalability, compliance requirements, operational continuity, and cost.
